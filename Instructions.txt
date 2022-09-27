@@ -1,0 +1,5 @@
+Admin - nitin , 1234
+
+Gives the total pricing in uber/<id>/
+
+Can add different pricing in admin 
